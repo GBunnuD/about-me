@@ -1,10 +1,11 @@
 # about-me
 Iam Prasad Golla Durga, my prefered name is GD.
+
 Iam doing Masters in Applied Computer Science, in Northwest Missouri State University.
 
 ## My Repository Links:
 * [My GitHub Profile](https://github.com/GD-Prasad)
-* [My about-me repo :]()
+* [My about-me repo ]()
 
 ## About
 I have created this repository for web apps course and to learn the operation of Git.
@@ -18,3 +19,8 @@ I have created this repository for web apps course and to learn the operation of
 ## Recommeded Resourses:
 1. [Git :](https://guides.github.com/introduction/git-handbook/)Helps us with the fresh start in markdown language.
 1. [W3Schools :](https://www.w3schools.com/) I use this website for getting information and help for developing websites.
+
+## Contributors:
+Prasad Golla Durga - Masters in Applied Computer Science.
+
+![my fav image](https://comicvine1.cbsistatic.com/uploads/scale_super/11111/111111327/3064012-marvel_character_group-crop.jpg)
