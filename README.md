@@ -1,33 +1,4 @@
 # about-me
-<<<<<<< .mine
-
-This is my developer website.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-=======
 Iam Prasad Golla Durga, my prefered name is GD.
 
 Iam doing Masters in Applied Computer Science, in Northwest Missouri State University.
@@ -55,4 +26,4 @@ Prasad Golla Durga - Masters in Applied Computer Science.
 ![my fav image](https://comicvine1.cbsistatic.com/uploads/scale_super/11111/111111327/3064012-marvel_character_group-crop.jpg)
 
 Image Source : [www.comicvine1.cbsistatic.com](https://comicvine1.cbsistatic.com/uploads/scale_super/11111/111111327/3064012-marvel_character_group-crop.jpg) 
->>>>>>> .theirs
+
