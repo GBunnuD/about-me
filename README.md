@@ -14,3 +14,7 @@ I have created this repository for web apps course and to learn the operation of
 1. [Markdown Language](): Markdown language is a simple language similar to HTML and other mark-up languages, used for making simple and basic webpages.
 1. Tortise Git: Windows OS Git tools used to push or pull repos from Git cloud and local machine.
 1. VS Code/Notepad++ : Useful editors to work on local system.
+
+## Recommeded Resourses:
+1. [Git :](https://guides.github.com/introduction/git-handbook/)Helps us with the fresh start in markdown language.
+1. [W3Schools :](https://www.w3schools.com/) I use this website for getting information and help for developing websites.
