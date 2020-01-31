@@ -1,2 +1,2 @@
 # about-me
-This is my developer website.
+Iam Prasad Golla Durga, my prefered name is GD.
